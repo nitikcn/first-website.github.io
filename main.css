@@ -1,0 +1,21 @@
+.intro-to-webpage {
+  background-color: rgb(200, 255, 200);
+  padding: 12px 16px;
+  color: rgb(104, 109, 204)
+}
+
+.about-me {
+  margin: 20px;
+  padding: 12px 16px;
+  background-color: skyblue;
+}
+
+.about-me button {
+  margin-left: 10px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  padding: 8px 12px;
+  background-color: rgb(219, 104, 38);
+  border: none;
+  border-radius: 4px;
+}
